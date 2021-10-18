@@ -1,3 +1,5 @@
-﻿  Mytest.cpp
-  test.vcxproj -> C:\Users\ermol\Documents\Visual Studio 2015\Projects\Gauss\x64\Debug\test.exe
-  test.vcxproj -> C:\Users\ermol\Documents\Visual Studio 2015\Projects\Gauss\x64\Debug\test.pdb (Partial PDB)
+﻿  test_main.cpp
+  Mytest.cpp
+  Generating Code...
+  test.vcxproj -> C:\Users\ermol\Documents\GitHub\gauss_plus_test\Gauss\x64\Debug\test.exe
+  test.vcxproj -> C:\Users\ermol\Documents\GitHub\gauss_plus_test\Gauss\x64\Debug\test.pdb (Partial PDB)

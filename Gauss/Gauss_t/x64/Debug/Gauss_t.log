@@ -1,6 +1,9 @@
-﻿  Solver.cpp
-  Generating Code...
-  Compiling...
+﻿  Vector.cpp
+  Solver.cpp
+  MersennetwisterGENERATOR.cpp
+c:\users\ermol\documents\github\gauss_plus_test\gauss\gauss_t\mersennetwistergenerator.cpp(64): warning C4838: conversion from 'const int' to 'unsigned long' requires a narrowing conversion
+  Matrix.cpp
+  mainMersennetwisterGENERATOR.cpp
   Main.cpp
   Generating Code...
-  Gauss_t.vcxproj -> C:\Users\ermol\Documents\Visual Studio 2015\Projects\Gauss\x64\Debug\Gauss_t.lib
+  Gauss_t.vcxproj -> C:\Users\ermol\Documents\GitHub\gauss_plus_test\Gauss\x64\Debug\Gauss_t.lib
